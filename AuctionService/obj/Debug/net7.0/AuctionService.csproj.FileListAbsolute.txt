@@ -64,7 +64,6 @@ C:\Users\Yoshi\Documents\TI\microservices_study\AuctionService\obj\Debug\net7.0\
 C:\Users\Yoshi\Documents\TI\microservices_study\AuctionService\obj\Debug\net7.0\AuctionService.pdb
 C:\Users\Yoshi\Documents\TI\microservices_study\AuctionService\obj\Debug\net7.0\AuctionService.genruntimeconfig.cache
 C:\Users\Yoshi\Documents\TI\microservices_study\AuctionService\obj\Debug\net7.0\ref\AuctionService.dll
-C:\Users\Yoshi\Documents\TI\microservices_study\AuctionService\obj\Debug\net7.0\AuctionService.sourcelink.json
 C:\Users\Yoshi\Documents\TI\microservices_study\AuctionService\bin\Debug\net7.0\AutoMapper.dll
 C:\Users\Yoshi\Documents\TI\microservices_study\AuctionService\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\Yoshi\Documents\TI\microservices_study\AuctionService\bin\Debug\net7.0\Humanizer.dll

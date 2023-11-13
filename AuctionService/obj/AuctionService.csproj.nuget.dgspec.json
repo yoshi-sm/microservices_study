@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Yoshi\\Documents\\TI\\microservices_study\\src\\AuctionService\\AuctionService.csproj": {}
+    "C:\\Users\\Yoshi\\Documents\\TI\\microservices_study\\AuctionService\\AuctionService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Yoshi\\Documents\\TI\\microservices_study\\src\\AuctionService\\AuctionService.csproj": {
+    "C:\\Users\\Yoshi\\Documents\\TI\\microservices_study\\AuctionService\\AuctionService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Yoshi\\Documents\\TI\\microservices_study\\src\\AuctionService\\AuctionService.csproj",
+        "projectUniqueName": "C:\\Users\\Yoshi\\Documents\\TI\\microservices_study\\AuctionService\\AuctionService.csproj",
         "projectName": "AuctionService",
-        "projectPath": "C:\\Users\\Yoshi\\Documents\\TI\\microservices_study\\src\\AuctionService\\AuctionService.csproj",
+        "projectPath": "C:\\Users\\Yoshi\\Documents\\TI\\microservices_study\\AuctionService\\AuctionService.csproj",
         "packagesPath": "C:\\Users\\Yoshi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Yoshi\\Documents\\TI\\microservices_study\\src\\AuctionService\\obj\\",
+        "outputPath": "C:\\Users\\Yoshi\\Documents\\TI\\microservices_study\\AuctionService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Yoshi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -74,24 +74,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[7.0.12, 7.0.12]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[7.0.12, 7.0.12]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[7.0.12, 7.0.12]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[7.0.12, 7.0.12]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -100,7 +82,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-rc.2.23502.2\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
